@@ -11,8 +11,6 @@ This study is done as a part of Machine Learning Course(CSE-343/ECE-343) under P
 
 We have used the [FIFA-21 Complete Player dataset](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset) available on Kaggle for our study purposed.
 
-## Exploratory Data Analysis
-
 
 ## Running the Project
 The uploaded notebook 'Assigning_Field_Position_To_Football_Players.ipynb' contains all the relevant code of our study, and contains the following sections - 
